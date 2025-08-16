@@ -1,0 +1,30 @@
+/* Initializes the HTML tag so the browser automatically knows what to display for it */
+html {
+    margin: 0;
+    padding: 0 0 0 0;
+    background-color: #ffffff; 
+    border: none;
+    outline: none;
+    z-index: 0;
+}
+
+/* Tells the browser to setup the 'body' tag initialzation. */
+body {
+    margin: 0;
+    padding: 0 0 0 0;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+/* The 'main' tag deals with the main content of the page. */
+main {
+    background-color: #212121;
+    color: #e8e8e8;
+    
+    margin: 0;
+    padding: 2.2px 2.7px;
+    box-sizing: border-box;
+
+    display: auto;
+}
