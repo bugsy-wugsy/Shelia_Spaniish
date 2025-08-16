@@ -1,2 +1,4 @@
 # Shelia_Spaniish
 This repository is a place to learn Spanish. Here, I give fun Spanish tutorials with images and sounds that make Spanish more fun!
+Shelia Spanish is directed at anyone who wants to learn Spanish, whether you're American, French, or Chinese! We support a bunch of languages.
+We're currently in progress, but, contact me at bugsywugsy@myyahoo.com and I'll let you know when I'm finished with it!
