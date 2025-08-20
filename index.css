@@ -28,3 +28,18 @@ main {
 
     display: auto;
 }
+
+/* The header for our site. */
+.dellace-header {
+    background: rgb(98, 5, 254);
+    width: 100%;
+    min-height: 60px;
+    max-height: 100px;
+    font-family: Lato, Arial;
+    font-color: white;
+}
+
+/* Buttons for our site */
+.dellace-header-button {
+    
+}
