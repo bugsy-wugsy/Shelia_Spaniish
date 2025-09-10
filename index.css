@@ -17,7 +17,7 @@ body {
     outline: none;
 }
 
-/* The 'main' tag deals with the main content of the page. */
+/* The 'main' tag deals with the main content of the page. It also has lots of other features, too. */
 main {
     background-color: #212121;
     color: #e8e8e8;
